@@ -1,0 +1,24 @@
+body {
+    background-color: #EAF6F6;
+}
+
+h1 {
+    color: #66BFBF;
+}
+
+h2 {
+    color: #66BFBF;
+}
+
+.LongImage {
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+}
+
+hr {
+    border-style: dotted none none; 
+    border-color: yellowgreen;
+    border-width: 4px;
+    width: 70%;
+}
